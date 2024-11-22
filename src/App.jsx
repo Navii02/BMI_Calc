@@ -32,7 +32,7 @@ function App() {
       setCategory("Overweight");
       setStrokeColor("orange");
     } else {
-      setCategory("Obese");
+      setCategory("Please Consult Doctor");
       setStrokeColor("red");
     }
 
